@@ -1,0 +1,10 @@
+__pycache__/
+.venv/
+.venv-tts/
+.env
+models/
+*.onnx
+*.onnx.json
+dumpfiles/
+memory.json
+voice_samples/
